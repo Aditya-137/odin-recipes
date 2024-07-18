@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    background-color: peachpuff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+li {
+    background-color: aliceblue;
+    width: 300px;
+}
+a {
+    background-color: aliceblue;
+    color: black;
+    font-size: 18px;
+    /* width: 300px; */
+}
